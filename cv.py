@@ -7,15 +7,15 @@ with st.sidebar:
     st.write("Technicien Supérieur en Géomatique")
 
     st.subheader("mail")
-    st.write("&#9993;sfallou257357@gmail.com")
+    st.write("sfallou257357@gmail.com")
 
     st.subheader("Adresse")
-    st.write("&#127968;DAKAR,SÉNÉGAL")
+    st.write("DAKAR,SÉNÉGAL")
 st.subheader("PROFIL")
 
 st.write("Technicien expert en Géomatique au Centre d'Entrepreunariat et développement Technique (CEDT-15) ainsi qu'en Géographie á l'Université Cheikh Anta Diop de Dakar, je mets mes compétences au services de projets technique et de gestions des espaces. Rigoureux, méthodique et á l'aise en travail d'équipe.")
 
-st.subheader("\U0001F4DAFORMATION ACADÉMIQUE")
+st.subheader("FORMATION ACADÉMIQUE")
 
 st.markdown("""
 * 2025-2026: Licence en Géographie, Université Cheikh Anta Diop de Dakar
@@ -23,7 +23,7 @@ st.markdown("""
 * 2020-2021: Baccalauréat en Lettres et Sciences Humaines, UCAD
 """)
 
-st.subheader("\U0001F528COMPÉTENCES")
+st.subheader("COMPÉTENCES")
 
 col1, col2 = st.columns(2)
 
@@ -54,7 +54,7 @@ with col2:
      * Analyse des risques (inondations, sécheresses")
      """)
 
-st.subheader("\U0001F9F0  OUTILS")
+st.subheader("OUTILS")
 st.markdown("""
 
 * suite Bureautique
@@ -76,7 +76,7 @@ st.markdown("""
 * Photogrammétrie
 """)
 
-st.subheader("\U00002705RÉALISATIONS")
+st.subheader("RÉALISATIONS")
 
 st.markdown("""
 
