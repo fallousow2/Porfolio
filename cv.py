@@ -11,11 +11,11 @@ with st.sidebar:
 
     st.subheader("Adresse")
     st.write("DAKAR,SÉNÉGAL")
-st.subheader("PROFIL")
+st.info("PROFIL")
 
 st.write("Technicien expert en Géomatique au Centre d'Entrepreunariat et développement Technique (CEDT-15) ainsi qu'en Géographie á l'Université Cheikh Anta Diop de Dakar, je mets mes compétences au services de projets technique et de gestions des espaces. Rigoureux, méthodique et á l'aise en travail d'équipe.")
 
-st.subheader("FORMATION ACADÉMIQUE")
+st.info("FORMATION ACADÉMIQUE")
 
 st.markdown("""
 * 2025-2026: Licence en Géographie, Université Cheikh Anta Diop de Dakar
@@ -23,7 +23,7 @@ st.markdown("""
 * 2020-2021: Baccalauréat en Lettres et Sciences Humaines, UCAD
 """)
 
-st.subheader("COMPÉTENCES")
+st.info("COMPÉTENCES")
 
 col1, col2 = st.columns(2)
 
