@@ -54,7 +54,7 @@ with col2:
      * Analyse des risques (inondations, sécheresses")
      """)
 
-st.info("OUTILS")
+st.info("🧰OUTILS")
 st.markdown("""
 
 * suite Bureautique
