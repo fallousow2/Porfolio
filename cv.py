@@ -15,7 +15,7 @@ st.info("PROFIL")
 
 st.write("Technicien expert en Géomatique au Centre d'Entrepreunariat et développement Technique (CEDT-15) ainsi qu'en Géographie á l'Université Cheikh Anta Diop de Dakar, je mets mes compétences au services de projets technique et de gestions des espaces. Rigoureux, méthodique et á l'aise en travail d'équipe.")
 
-st.info("FORMATION ACADÉMIQUE")
+st.info("🛠️FORMATION ACADÉMIQUE")
 
 st.markdown("""
 * 2025-2026: Licence en Géographie, Université Cheikh Anta Diop de Dakar
