@@ -2,7 +2,7 @@ import streamlit as st
 
 with st.sidebar:
     st.image("Fallou.png")
-    st.title("Fallou Sow")
+    st.title("Fallou S0w")
 
     st.write("Technicien Supérieur en Géomatique")
 
