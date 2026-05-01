@@ -7,7 +7,7 @@ with st.sidebar:
     st.write("Technicien Supérieur en Géomatique")
 
     st.subheader("mail")
-    st.write("sfallou257357@gmail.com")
+    st.write("📧sfallou257357@gmail.com")
 
     st.subheader("Adresse")
     st.write("DAKAR,SÉNÉGAL")
@@ -23,7 +23,7 @@ st.markdown("""
 * 2020-2021: Baccalauréat en Lettres et Sciences Humaines, UCAD
 """)
 
-st.info("COMPÉTENCES")
+st.info("🎯COMPÉTENCES")
 
 col1, col2 = st.columns(2)
 
@@ -76,7 +76,7 @@ st.markdown("""
 * Photogrammétrie
 """)
 
-st.info("RÉALISATIONS")
+st.info("✅RÉALISATIONS")
 
 st.markdown("""
 
